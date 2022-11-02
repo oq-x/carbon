@@ -3,6 +3,7 @@ Carbon is a simple and open source moderation bot for Discord
 
 # Installing
 ## Using a compiled binary
+** COMPILED BINARIES ARE NOT AVAILABLE TEMPORARLY**
 You can find compiled binaries for Linux & Windows.
 To get them you can go to the releases page.
 If there is no compiled binary for your OS, download Go & the source code and compile the bot yourself.
